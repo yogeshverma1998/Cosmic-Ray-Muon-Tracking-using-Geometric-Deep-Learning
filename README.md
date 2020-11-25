@@ -1,1 +1,1 @@
-# Cosmic-Ray-Muon-Tracking-using-Geometric-Deep-Learning
+# Cosmic Ray Muon Tracking using Geometric Deep Learning
