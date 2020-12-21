@@ -21,6 +21,7 @@ Pytorch 1.6.0 + CUDA 10.1
 Torch-Geometric
 Torch-Scatter
 ```
+All other standard libraries like pandas, numpy etc are required. Detailed list and installation in server using anaconda environment is provided here: https://github.com/kschweiger/TF4ttHFH/blob/master/setup_t3PSI.sh
 
 # Training
 To train the model, change the input data files in Data_load.py to actual location of your dataset and set the path to save accuracy and loss plots in Train.py
