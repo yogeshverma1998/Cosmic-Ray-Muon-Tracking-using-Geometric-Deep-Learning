@@ -23,5 +23,8 @@ Torch-Scatter
 ```
 
 # Training
-
+To train the model, change the input data files in Data_load.py to actual location of your dataset and set the path to save accuracy and loss plots in Train.py
+```js
+python3 Train.py
+```
 
