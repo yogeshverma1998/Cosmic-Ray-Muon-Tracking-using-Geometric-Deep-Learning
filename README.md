@@ -12,9 +12,15 @@ Tracking cosmic ray muons in a 3-D Scintillator detector simulated using GEANT-4
 
 
 # Required Libraries
-
-
-
+```js
+python 3.6.8
+ROOT + PyROOT 6.2
+CORSIKA 
+GEANT4
+Pytorch 1.6.0 + CUDA 10.1
+Torch-Geometric
+Torch-Scatter
+```
 
 # Training
 
